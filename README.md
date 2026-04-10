@@ -1,4 +1,4 @@
-<img width="1617" height="1016" alt="image" src="https://github.com/user-attachments/assets/ff07db16-5eaf-42cc-b6a6-0e7bdb4b2008" /># Hi 👋, I'm Ranchana R
+Hi 👋, I'm Ranchana R
 
 🎓 B.Tech AI & Data Science Student
 📍 Dr. Mahalingam College of Engineering and Technology
