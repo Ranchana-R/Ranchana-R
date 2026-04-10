@@ -80,22 +80,4 @@
 
 ---
 
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranchana-R\&show_icons=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ranchana-R)
-
----
-
 ⭐ *“Learning never stops — building intelligent solutions for the future.”*
